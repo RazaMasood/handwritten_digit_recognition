@@ -17,7 +17,5 @@ PIL
 
 Once you have the libraries installed, you can open this Jupyter notebook and run the Python script. You will need to provide the path to the training and test sets of MNIST images in the script. Once you have trained the model, you can use it to predict the new digit by running the last code cell in the script and providing the path to the new image.
 
-### Usage
-
 ### Results
 The model has an accuracy of 98% on the test set. A confusion matrix and classification report are included in the results directory.
